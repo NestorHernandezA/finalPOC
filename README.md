@@ -1,4 +1,2 @@
-# finalPOC
-Native React POC
-
+# Exploring React Native
 
